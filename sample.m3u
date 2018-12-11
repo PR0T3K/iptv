@@ -1,25 +1,335 @@
 #EXTM3U
-#EXTINF:0 group-title="GR: Sport",GR: OTE SPORT 1 
-http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/9465.ts
-#EXTINF:0 group-title="GR: Sport",GR: OTE SPORT 2 
-http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/9466.ts
-#EXTINF:0 group-title="GR: Sport",GR: OTE SPORT 4 
-http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/9468.ts
-#EXTINF:0 group-title="GR: Sport",GR: OTE SPORT 5 
-http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/9469.ts
-#EXTINF:0 group-title="GR: Sport",GR: OTE SPORT 6 
-http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/9470.ts
-#EXTINF:0 group-title="GR: Sport",GR: OTE SPORT 7 
-http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/9471.ts
-#EXTINF:0 group-title="GR: Sport",GR: OTE SPORT 8 
-http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/9472.ts
-#EXTINF:-1,tv5
-rtmp://stream3.news5.ph:1935/n5e/singko_3
-#EXTINF:-1,tv5
-rtsp://stream3.news5.ph:1935/n5e/singko_3
-#EXTINF:-1,Radio
-http://103.225.136.118:8000/live
-#EXTINF:-1,OTE Sport 1 HD
-http://free-iptv.pro:8000/YL10012/Mu1829/28244
-#EXTINF:-1,OTE Sport 1 HD
-http://185.2.83.209:8000/live/tony2/tony2/2806.m3u8
+#EXTINF:-1,BBC ONE W Mid
+http://31.51.66.242:9981/stream/channelid/1353753887
+#EXTINF:-1,BBC TWO
+http://31.51.66.242:9981/stream/channelid/736343821
+#EXTINF:-1,ITV
+http://31.51.66.242:9981/stream/channelid/1606486491
+#EXTINF:-1,Channel 4
+http://31.51.66.242:9981/stream/channelid/1416824741
+#EXTINF:-1,Channel 5
+http://31.51.66.242:9981/stream/channelid/1672640765
+#EXTINF:-1,ITV2
+http://31.51.66.242:9981/stream/channelid/798193298
+#EXTINF:-1,ITV3
+http://31.51.66.242:9981/stream/channelid/931371968
+#EXTINF:-1,Pick
+http://31.51.66.242:9981/stream/channelid/622378637
+#EXTINF:-1,Dave
+http://31.51.66.242:9981/stream/channelid/2021781791
+#EXTINF:-1,Channel 4+1
+http://31.51.66.242:9981/stream/channelid/445702762
+#EXTINF:-1,More 4
+http://31.51.66.242:9981/stream/channelid/364980997
+#EXTINF:-1,Film4
+http://31.51.66.242:9981/stream/channelid/48819296
+#EXTINF:-1,QVC
+http://31.51.66.242:9981/stream/channelid/1830645894
+#EXTINF:-1,Really
+http://31.51.66.242:9981/stream/channelid/454604009
+#EXTINF:-1,4Music
+http://31.51.66.242:9981/stream/channelid/852622598
+#EXTINF:-1,Yesterday
+http://31.51.66.242:9981/stream/channelid/1606007520
+#EXTINF:-1,Drama
+http://31.51.66.242:9981/stream/channelid/1138076019
+#EXTINF:-1,5 USA
+http://31.51.66.242:9981/stream/channelid/620917159
+#EXTINF:-1,Ideal World
+http://31.51.66.242:9981/stream/channelid/2128826720
+#EXTINF:-1,Create & Craft
+http://31.51.66.242:9981/stream/channelid/1451125338
+#EXTINF:-1,ITV4
+http://31.51.66.242:9981/stream/channelid/1197937255
+#EXTINF:-1,Home
+http://31.51.66.242:9981/stream/channelid/451214839
+#EXTINF:-1,ITVBe
+http://31.51.66.242:9981/stream/channelid/1423728204
+#EXTINF:-1,ITV2 +1
+http://31.51.66.242:9981/stream/channelid/442288814
+#EXTINF:-1,E4
+http://31.51.66.242:9981/stream/channelid/1521426449
+#EXTINF:-1,E4+1
+http://31.51.66.242:9981/stream/channelid/1556652537
+#EXTINF:-1,5STAR
+http://31.51.66.242:9981/stream/channelid/549403455
+#EXTINF:-1,5Spike
+http://31.51.66.242:9981/stream/channelid/553299021
+#EXTINF:-1,Sony Movie Ch
+http://31.51.66.242:9981/stream/channelid/1614058037
+#EXTINF:-1,ITV +1
+http://31.51.66.242:9981/stream/channelid/55531271
+#EXTINF:-1,ITV3+1
+http://31.51.66.242:9981/stream/channelid/105228210
+#EXTINF:-1,QVC Style
+http://31.51.66.242:9981/stream/channelid/700576299
+#EXTINF:-1,QUEST
+http://31.51.66.242:9981/stream/channelid/1024940881
+#EXTINF:-1,Quest Red
+http://31.51.66.242:9981/stream/channelid/2068668101
+#EXTINF:-1,CBS Justice
+http://31.51.66.242:9981/stream/channelid/1505146428
+#EXTINF:-1,Sony Crime Channel
+http://31.51.66.242:9981/stream/channelid/1831117068
+#EXTINF:-1,Food Network
+http://31.51.66.242:9981/stream/channelid/1664004987
+#EXTINF:-1,Travel Channel
+http://31.51.66.242:9981/stream/channelid/212747436
+#EXTINF:-1,Gems TV
+http://31.51.66.242:9981/stream/channelid/1498010958
+#EXTINF:-1,Channel 5+1
+http://31.51.66.242:9981/stream/channelid/1288804467
+#EXTINF:-1,Film4+1
+http://31.51.66.242:9981/stream/channelid/2066344325
+#EXTINF:-1,Challenge
+http://31.51.66.242:9981/stream/channelid/2133490600
+#EXTINF:-1,4seven
+http://31.51.66.242:9981/stream/channelid/428262931
+#EXTINF:-1,movies4men
+http://31.51.66.242:9981/stream/channelid/719958024
+#EXTINF:-1,TJC
+http://31.51.66.242:9981/stream/channelid/42486904
+#EXTINF:-1,5SELECT
+http://31.51.66.242:9981/stream/channelid/858078523
+#EXTINF:-1,Paramount Network
+http://31.51.66.242:9981/stream/channelid/1764953949
+#EXTINF:-1,ITVBe+1
+http://31.51.66.242:9981/stream/channelid/2115223538
+#EXTINF:-1,True Entertainment
+http://31.51.66.242:9981/stream/channelid/1963447388
+#EXTINF:-1,True Christmas
+http://31.51.66.242:9981/stream/channelid/1905435
+#EXTINF:-1,Blaze
+http://31.51.66.242:9981/stream/channelid/1138600476
+#EXTINF:-1,TBN UK
+http://31.51.66.242:9981/stream/channelid/1228561445
+#EXTINF:-1,CBS Reality
+http://31.51.66.242:9981/stream/channelid/773574613
+#EXTINF:-1,Horror Channel
+http://31.51.66.242:9981/stream/channelid/868925438
+#EXTINF:-1,CBS Drama
+http://31.51.66.242:9981/stream/channelid/1458335979
+#EXTINF:-1,YourTV
+http://31.51.66.242:9981/stream/channelid/1857538148
+#EXTINF:-1,Sewing Quarter
+http://31.51.66.242:9981/stream/channelid/1619116233
+#EXTINF:-1,Dave ja vu
+http://31.51.66.242:9981/stream/channelid/590588860
+#EXTINF:-1,TalkingPictures TV
+http://31.51.66.242:9981/stream/channelid/1423626557
+#EXTINF:-1,Hochanda
+http://31.51.66.242:9981/stream/channelid/2016365808
+#EXTINF:-1,The Store
+http://31.51.66.242:9981/stream/channelid/109945311
+#EXTINF:-1,BBC ONE HD
+http://31.51.66.242:9981/stream/channelid/66684335
+#EXTINF:-1,BBC TWO HD
+http://31.51.66.242:9981/stream/channelid/1919987851
+#EXTINF:-1,ITV HD
+http://31.51.66.242:9981/stream/channelid/508684824
+#EXTINF:-1,Channel 4 HD
+http://31.51.66.242:9981/stream/channelid/1408722463
+#EXTINF:-1,Channel 5 HD
+http://31.51.66.242:9981/stream/channelid/1724548804
+#EXTINF:-1,CBBC
+http://31.51.66.242:9981/stream/channelid/912144401
+#EXTINF:-1,CBeebies
+http://31.51.66.242:9981/stream/channelid/858393999
+#EXTINF:-1,CITV
+http://31.51.66.242:9981/stream/channelid/910193472
+#EXTINF:-1,CBBC HD
+http://31.51.66.242:9981/stream/channelid/1390835278
+#EXTINF:-1,POP
+http://31.51.66.242:9981/stream/channelid/483576885
+#EXTINF:-1,BBC NEWS
+http://31.51.66.242:9981/stream/channelid/328709235
+#EXTINF:-1,BBC Parliament
+http://31.51.66.242:9981/stream/channelid/1038604032
+#EXTINF:-1,Sky News
+http://31.51.66.242:9981/stream/channelid/1850727473
+#EXTINF:-1,RT
+http://31.51.66.242:9981/stream/channelid/120463317
+#EXTINF:-1,BBC RB 1
+http://31.51.66.242:9981/stream/channelid/40066927
+#EXTINF:-1,ADULT Babestn
+http://31.51.66.242:9981/stream/channelid/994843788
+#EXTINF:-1,BBC Radio 1
+http://31.51.66.242:9981/stream/channelid/653521691
+#EXTINF:-1,BBC R1X
+http://31.51.66.242:9981/stream/channelid/157124069
+#EXTINF:-1,BBC Radio 2
+http://31.51.66.242:9981/stream/channelid/2134702523
+#EXTINF:-1,BBC Radio 3
+http://31.51.66.242:9981/stream/channelid/2024730125
+#EXTINF:-1,BBC Radio 4
+http://31.51.66.242:9981/stream/channelid/602868371
+#EXTINF:-1,BBC R5L
+http://31.51.66.242:9981/stream/channelid/2100894757
+#EXTINF:-1,BBC R5SX
+http://31.51.66.242:9981/stream/channelid/2132421516
+#EXTINF:-1,BBC 6 Music
+http://31.51.66.242:9981/stream/channelid/1172783393
+#EXTINF:-1,BBC Radio 4 Ex
+http://31.51.66.242:9981/stream/channelid/1566287327
+#EXTINF:-1,BBC Asian Net.
+http://31.51.66.242:9981/stream/channelid/1811048563
+#EXTINF:-1,BBC World Sv.
+http://31.51.66.242:9981/stream/channelid/816796750
+#EXTINF:-1,Hits Radio
+http://31.51.66.242:9981/stream/channelid/123309411
+#EXTINF:-1,KISS FRESH
+http://31.51.66.242:9981/stream/channelid/386940475
+#EXTINF:-1,KISS
+http://31.51.66.242:9981/stream/channelid/1712718458
+#EXTINF:-1,KISSTORY
+http://31.51.66.242:9981/stream/channelid/1496910097
+#EXTINF:-1,Magic
+http://31.51.66.242:9981/stream/channelid/1858659344
+#EXTINF:-1,heat
+http://31.51.66.242:9981/stream/channelid/318870495
+#EXTINF:-1,Kerrang!
+http://31.51.66.242:9981/stream/channelid/1549118451
+#EXTINF:-1,Smooth Radio
+http://31.51.66.242:9981/stream/channelid/1129841794
+#EXTINF:-1,BBC C&W
+http://31.51.66.242:9981/stream/channelid/830265928
+#EXTINF:-1,BBC H&W
+http://31.51.66.242:9981/stream/channelid/581730200
+#EXTINF:-1,BBC WM
+http://31.51.66.242:9981/stream/channelid/152253297
+#EXTINF:-1,talkSPORT
+http://31.51.66.242:9981/stream/channelid/1845386814
+#EXTINF:-1,Capital
+http://31.51.66.242:9981/stream/channelid/31700737
+#EXTINF:-1,Premier Radio
+http://31.51.66.242:9981/stream/channelid/937431066
+#EXTINF:-1,BBC Stoke
+http://31.51.66.242:9981/stream/channelid/1124468129
+#EXTINF:-1,Absolute Radio
+http://31.51.66.242:9981/stream/channelid/863199083
+#EXTINF:-1,Heart
+http://31.51.66.242:9981/stream/channelid/1413496089
+#EXTINF:-1,RNIB Connect
+http://31.51.66.242:9981/stream/channelid/2013741715
+#EXTINF:-1,Classic FM
+http://31.51.66.242:9981/stream/channelid/662610956
+#EXTINF:-1,LBC
+http://31.51.66.242:9981/stream/channelid/905591414
+#EXTINF:-1,BBC Derby
+http://31.51.66.242:9981/stream/channelid/1720487788
+#EXTINF:-1,CZ: Prima Max HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7668
+#EXTINF:-1,CZ: AXN
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7667
+#EXTINF:-1,CZ: Boomerang
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7666
+#EXTINF:-1,CZ: Discovery Showcase HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7665
+#EXTINF:-1,CZ: Cinemax
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7664
+#EXTINF:-1,CZ: Discovery
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7663
+#EXTINF:-1,CZ: Disney
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7662
+#EXTINF:-1,CZ: Nick Jr Czech
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7661
+#EXTINF:-1,CZ: Horor Film
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7660
+#EXTINF:-1,CZ: EDGE
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7659
+#EXTINF:-1,CZ: Film
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7658
+#EXTINF:-1,CZ: Filmbox HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7657
+#EXTINF:-1,CZ: Prima Comedy Central
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7656
+#EXTINF:-1,CZ: AMC
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14401
+#EXTINF:-1,CZ: Filmbox Plus
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7655
+#EXTINF:-1,CZ: Prima Love
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7654
+#EXTINF:-1,CZ: Fishing and Hunting
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7653
+#EXTINF:-1,CZ: Docu Box
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7652
+#EXTINF:-1,CZ: HBO HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7651
+#EXTINF:-1,CZ: HBO2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7650
+#EXTINF:-1,CZ: HBO3
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7649
+#EXTINF:-1,CZ: Nature
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7648
+#EXTINF:-1,CZ: Travel Xp HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7647
+#EXTINF:-1,CZ: Film Europe INT HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7646
+#EXTINF:-1,CZ: Film Europe HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7645
+#EXTINF:-1,CZ: Minimax
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7644
+#EXTINF:-1,CZ: Mnau TV
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7643
+#EXTINF:-1,CZ: MTV Europe
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7642
+#EXTINF:-1,CZ: Nat Geo HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7641
+#EXTINF:-1,CZ: Nat Geo Wild HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7640
+#EXTINF:-1,CZ: Doma HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7639
+#EXTINF:-1,CZ: Nickelodeon
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7638
+#EXTINF:-1,CZ: Cartoon Network CZ
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14404
+#EXTINF:-1,CZ: FIGHTBOX
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14400
+#EXTINF:-1,CZ: Filmbox
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14407
+#EXTINF:-1,CZ: Filmbox Extra HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14409
+#EXTINF:-1,CZ: Prima ZOOM HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14403
+#EXTINF:-1,CZ: TV Paprika
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14405
+#EXTINF:-1,CZ: Explore/Spice
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14406
+#EXTINF:-1,CZ: History
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14408
+#EXTINF:-1,CZ: Disney CZ
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14402
+#EXTINF:-1,CZ: Fight Box HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7637
+#EXTINF:-1,CZ: REBEL
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7636
+#EXTINF:-1,CZ: Animal Planet
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7635
+#EXTINF:-1,CZ: Retro Music TV
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7634
+#EXTINF:-1,CZ: Arena Sport
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7633
+#EXTINF:-1,CZ: Spektrum HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7632
+#EXTINF:-1,CZ: Senzi
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7631
+#EXTINF:-1,CZ: Sport 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7630
+#EXTINF:-1,CZ: Eurosports 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7629
+#EXTINF:-1,CZ: Eurosports 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7628
+#EXTINF:-1,CZ: The QYOU
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7627
+#EXTINF:-1,CZ: Crime And Invest
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7626
+#EXTINF:-1,CZ: Festival HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7625
+#EXTINF:-1,CZ: History HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7624
+#EXTINF:-1,CZ: JimJam
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7623
+#EXTINF:-1,CZ: DOCUBOX
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14410
+#EXTINF:-1,CZ: duck TV
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14399
