@@ -13,3 +13,13 @@ http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/9470.ts
 http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/9471.ts
 #EXTINF:0 group-title="GR: Sport",GR: OTE SPORT 8 
 http://www.bozhd.eu:8000/live/Rtb0K2ssa/28mkberTT2/9472.ts
+#EXTINF:-1,tv5
+rtmp://stream3.news5.ph:1935/n5e/singko_3
+#EXTINF:-1,tv5
+rtsp://stream3.news5.ph:1935/n5e/singko_3
+#EXTINF:-1,Radio
+http://103.225.136.118:8000/live
+#EXTINF:-1,OTE Sport 1 HD
+http://free-iptv.pro:8000/YL10012/Mu1829/28244
+#EXTINF:-1,OTE Sport 1 HD
+http://185.2.83.209:8000/live/tony2/tony2/2806.m3u8
